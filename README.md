@@ -1,4 +1,4 @@
-Open-Ended Experiment 2: Geospatial Storytelling with Plotly or Tableau
+*Open-Ended Experiment 2: Geospatial Storytelling with Plotly or Tableau*
 
 Title: Visualizing the World: Geospatial Insights from a Global Dataset
 
