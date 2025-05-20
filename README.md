@@ -1,4 +1,3 @@
-**Experiment: 1**
 **Open-Ended Experiment 2: Geospatial Storytelling with Plotly or Tableau**
 
 **Title:** Visualizing the World: Geospatial Insights from a Global Dataset
@@ -16,4 +15,21 @@ Students will build a geospatial dashboard or visual story using Plotly or Table
 An interactive report or dashboard published/shared via Tableau Public or a Plotly HTML file.
 
 
-**Experiment: 2**
+**Open-Ended Experiment 4: Visualization Redesign Challenge**
+
+**Title:** Redesign a Poor Visualization to Improve Clarity and Communication
+
+**Objective:**
+Students will analyze a poor or misleading chart (from a report, newspaper, blog, or social media), critique its weaknesses, and redesign it using Seaborn, Matplotlib, or Power BI/Tableau.
+
+**Task:**
+- Find or choose a bad data visualization (can be misleading axes, wrong chart type, poor color usage, cluttered info, etc.).
+- Explain the issues in the original chart.
+- Redesign the visualization for clarity, accuracy, and aesthetics.
+- Present a before-and-after comparison with explanation.
+
+**Expected Outcome:**
+A mini-report or presentation showing:
+- Original visualization
+- Redesigned version
+- Justification of improvements
