@@ -1,3 +1,4 @@
+**Experiment: 1**
 **Open-Ended Experiment 2: Geospatial Storytelling with Plotly or Tableau**
 
 **Title:** Visualizing the World: Geospatial Insights from a Global Dataset
@@ -13,3 +14,6 @@ Students will build a geospatial dashboard or visual story using Plotly or Table
 
 **Expected Outcome:**
 An interactive report or dashboard published/shared via Tableau Public or a Plotly HTML file.
+
+
+**Experiment: 2**
