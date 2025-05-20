@@ -15,6 +15,7 @@ Students will build a geospatial dashboard or visual story using Plotly or Table
 An interactive report or dashboard published/shared via Tableau Public or a Plotly HTML file.
 
 
+
 **Open-Ended Experiment 4: Visualization Redesign Challenge**
 
 **Title:** Redesign a Poor Visualization to Improve Clarity and Communication
